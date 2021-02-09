@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hello this is test file.
 This is second line adding
 Third line added
+=======
+Hello this is test file.
+>>>>>>> parent of c0fc7a5... Second commit
